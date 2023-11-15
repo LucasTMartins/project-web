@@ -1,0 +1,18 @@
+/* directly from the file */
+@import "@catppuccin/palette/style";
+/* or using unpkg.com */
+@import url('https://unpkg.com/@catppuccin/palette/css/catppuccin.css');
+
+.oculto{
+    font-size: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.logo{
+    width: 100px;
+}
+
+.menu{
+    background: var(--ctp-frappe-base);
+}
